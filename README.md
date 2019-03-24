@@ -1,7 +1,4 @@
 
-
-![alt tag](https://api.travis-ci.org/pankajladhar/Reactgram.svg?branch=master)
-
 ## Installation Steps
 
 1. Clone repo
